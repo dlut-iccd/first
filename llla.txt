@@ -1,3 +1,7 @@
 first
+<<<<<<< HEAD
 second
 third
+=======
+second
+>>>>>>> parent of 20ced81... add third
