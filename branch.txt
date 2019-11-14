@@ -1,4 +1,7 @@
 1
 2
+<<<<<<< HEAD
 3
 一
+=======
+>>>>>>> parent of 69ca46d... Update branch.txt
