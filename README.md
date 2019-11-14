@@ -7,6 +7,7 @@ first document
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 how to use github
 >>>>>>> parent of c663960... how
@@ -18,6 +19,10 @@ how to
 how to use github
 >>>>>>> parent of 6ef7f39... how to
 =======
+=======
+how to
+=======
+>>>>>>> parent of f28721c... delete
 how to use github
 >>>>>>> parent of 6ef7f39... how to
 =======
@@ -32,6 +37,7 @@ how to use github
 =======
 how to use github
 >>>>>>> parent of 6ef7f39... how to
+<<<<<<< HEAD
 =======
 >>>>>>> f28721cb61b773451e55d031aadb6361aed78515
 =======
@@ -43,3 +49,5 @@ how to use github
 =======
 >>>>>>> parent of 6ef7f39... how to
 >>>>>>> parent of c663960... how
+=======
+>>>>>>> parent of f28721c... delete
